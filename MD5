@@ -1,0 +1,8 @@
+3a3309a009f799876c81350a06c2efd5 *DESCRIPTION
+49a9b7d796bf8e3c4b7b15ff57497067 *NAMESPACE
+1a28ca31cbb5dd473f001483fa2a8760 *NEWS
+b525168e0ef8e7152da95733411769b0 *R/set-values.R
+a39039601b9fc7ddf4f8e190e5f21bd2 *README.md
+2550689892176a1df149b0cb4e487b94 *man/setter.Rd
+99e7a4c7c704b5ac5adeb262ade5d700 *tests/testthat.R
+05edca08b69bf62d8f4a6bd07cf4b29c *tests/testthat/test-set-values.R
